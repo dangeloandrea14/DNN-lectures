@@ -1,0 +1,17 @@
+Batch 0 out of 1563 done
+Batch 100 out of 1563 done
+Batch 200 out of 1563 done
+Batch 300 out of 1563 done
+Batch 400 out of 1563 done
+Batch 500 out of 1563 done
+Batch 600 out of 1563 done
+Batch 700 out of 1563 done
+Batch 800 out of 1563 done
+Batch 900 out of 1563 done
+Batch 1000 out of 1563 done
+Batch 1100 out of 1563 done
+Batch 1200 out of 1563 done
+Batch 1300 out of 1563 done
+Batch 1400 out of 1563 done
+Batch 1500 out of 1563 done
+Test loss: 0.5954122509013668 Test acc: 72.336%
